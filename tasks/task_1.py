@@ -24,7 +24,7 @@ example_string = "Apples"
 # We use the print() function to display output to the terminal.
 # You can print strings (like line 26), variables (like line 27) or a combination of both (like line 28).
 print("Welcome to Task 1!")
-print(exaple_number, example_string)
+print(example_number, example_string)
 print("I have", example_number, example_string)
 
 #There are also multiple ways to format strings in Python. These are the two primary ways to do it:
@@ -39,23 +39,34 @@ print("My favorite number is", example_number, "and I like", example_string + ".
 print("\n--- YOUR TURN ---\n")
 
 # TODO 1: Create a variable called 'my_name' and assign it a string with your name.
+my_name = "Joy Dada"
 
 
 # TODO 2: Create a variable called 'my_age' and assign it an integer with your age.
+my_age = 13
 
 
 # TODO 3: Create a variable called 'favorite_number' and assign it a float (decimal number).
+favorite_number = 8.0
 
 
 # TODO 4: Use the print() function to print your name, age, and favorite number to the terminal.
+print(f"My name is {my_name}, I am {my_age} years old, and my favorite number is {favorite_number}.")
 
 
 # TODO 5: Create two integer variables, add them together using '+', and assign the result to a new variable.
 # Then, print the result.
+one = 1
+two = 2
+print(one + two)
 
 
 # TODO 6: Create two string variables (e.g., a first name and last name), combine them using '+', 
 # and assign the result to a new variable. Then, print the result.
+first_name = "Mercy "
+last_name = "Dada"
+full_name = first_name + last_name
+print(full_name)
 
 
 
