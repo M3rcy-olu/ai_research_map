@@ -59,6 +59,8 @@ print(f"My name is {my_name}, I am {my_age} years old, and my favorite number is
 one = 1
 two = 2
 print(one + two)
+three = one + two
+
 
 
 # TODO 6: Create two string variables (e.g., a first name and last name), combine them using '+', 
