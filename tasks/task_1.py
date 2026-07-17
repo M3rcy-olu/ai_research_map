@@ -74,7 +74,7 @@ print(full_name)
 # Great job! Now it's time to submit your work.
 # 1. Open the terminal.
 # 2. Run: git status
-# 3. Run: git add tasks/task_1.py
+# 3. Run: git add tasks/task_1.py     Another usefull is git add * --> this is a quick way to add every file you changed instead of 1 by 1
 # 4. Run: git commit -m "Completed Task 1"
 # 5. Run: git push
 # ==========================================
